@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ace
+drawable boa
+drawable brok
+drawable enel
+drawable franky
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable jinbe
+drawable luffy
+drawable nami
+drawable usopp
+drawable zoro
+id imageView
+id recyclerView
+id searchBar
+id textView
+id textView2
+layout activity_main
+layout cardrow
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string image_desc
+style Base.Theme.RecycleVApp
+style Theme.RecycleVApp
+xml backup_rules
+xml data_extraction_rules
