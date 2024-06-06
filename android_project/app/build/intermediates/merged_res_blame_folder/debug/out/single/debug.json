@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_eclair.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/eclair.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_honeycomb.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/honeycomb.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_froyo.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/froyo.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_kitkat.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/kitkat.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_donut.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/donut.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.example.recyclevapp-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_jellybean.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/jellybean.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_gingerbread.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/gingerbread.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_marsh.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/marsh.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.recyclevapp-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/layout_cardrow.xml.flat",
+        "source": "com.example.recyclevapp-main-30:/layout/cardrow.xml"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.recyclevapp-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclevapp-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_lollipop.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/lollipop.png"
+    },
+    {
+        "merged": "com.example.recyclevapp-merged_res-28:/drawable_cupcake.png.flat",
+        "source": "com.example.recyclevapp-main-30:/drawable/cupcake.png"
+    }
+]
